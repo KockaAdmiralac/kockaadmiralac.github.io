@@ -20,12 +20,12 @@ description: "Personal site of KockaAdmiralac."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kocka.tech" # the base hostname & protocol for your site, e.g. http://example.com
 repository: KockaAdmiralac/kockaadmiralac.github.io
-twitter_username: &twitter KockaAdmiralac
-github_username: KockaAdmiralac
 timezone: Europe/Belgrade
 
 # Customization
 head_scripts:
+footer_scripts:
+after_footer_scripts:
 teaser:
 logo:
 og_image:
@@ -40,12 +40,12 @@ plugins:
 # SEO
 google_site_verification: hGFr2GZy7GOlxAnzR83PvaMGM_jxy6gg5pktzZ9hL2M
 bing_site_verification:
-yandex_site_verification:
+yandex_site_verification: be0d2ef7fca223a2
 naver_site_verification:
 
 # Social
 twitter:
-  username: *twitter
+  username: KockaAdmiralac
 social:
   links:
     - "https://twitter.com/KockaAdmiralac"
@@ -53,14 +53,14 @@ social:
 
 # Analytics
 analytics:
-  provider: "google-gtag"
+  provider: "google-universal"
   google:
     tracking_id: "UA-147950049-1"
     anonymize_ip: true
 
 # Author
 author:
-  name: *name
+  name: "Pera Pisar"
   avatar:
   bio: "Јуче је данас било сутра."
   location: "Belgrade, Serbia"
@@ -68,22 +68,66 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kocka.tech"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/KockaAdmiralac"
+    - label: "KockaAdmiralac#9306"
+      icon: "fab fa-fw fa-discord"
+      url: "#"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KockaAdmiralac"
+    - label: "E-mail"
+      icon: "fa fa-envelope"
+      url: "mailto:me@kocka.tech"
+    - label: "Fandom"
+      # https://github.com/FortAwesome/Font-Awesome/issues/12585
+      icon: "fa fa-heart"
+      url: "https://dev.fandom.com/wiki/User:KockaAdmiralac"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/KockaAdmiralac"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/4335370/kockaadmiralac"
+
+include:
+  - _pages
+exclude:
+  - _config.yml
+  - .asset-cache
+  - .bundle
+  - .gitignore
+  - .jekyll-assets-cache
+  - .jekyll-metadata
+  - .sass-cache
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - cacert.pem
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - serve.sh
+  - LICENSE
+  - README.md
+keep_files:
+  - .git
+encoding: "utf-8"
+markdown_ext: "md"
 
 # Plugins
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
 
+# See https://pages.github.com/versions/
 whitelist:
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-include-cache
 
 # HTML compression
 compress_html:
   clippings: all
+
