@@ -1,0 +1,89 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+locale: "en-US"
+title: &name KockaAdmiralac
+email: admin@kocka.tech
+description: "Personal site of KockaAdmiralac."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kocka.tech" # the base hostname & protocol for your site, e.g. http://example.com
+repository: KockaAdmiralac/kockaadmiralac.github.io
+twitter_username: &twitter KockaAdmiralac
+github_username: KockaAdmiralac
+timezone: Europe/Belgrade
+
+# Customization
+head_scripts:
+teaser:
+logo:
+og_image:
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: dark
+plugins:
+  - jekyll-include-cache
+
+# SEO
+google_site_verification: hGFr2GZy7GOlxAnzR83PvaMGM_jxy6gg5pktzZ9hL2M
+bing_site_verification:
+yandex_site_verification:
+naver_site_verification:
+
+# Social
+twitter:
+  username: *twitter
+social:
+  links:
+    - "https://twitter.com/KockaAdmiralac"
+    - "https://github.com/KockaAdmiralac"
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-147950049-1"
+    anonymize_ip: true
+
+# Author
+author:
+  name: *name
+  avatar:
+  bio: "Јуче је данас било сутра."
+  location: "Belgrade, Serbia"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kocka.tech"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/KockaAdmiralac"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/KockaAdmiralac"
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# HTML compression
+compress_html:
+  clippings: all
