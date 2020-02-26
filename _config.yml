@@ -50,6 +50,10 @@ social:
   links:
     - "https://twitter.com/KockaAdmiralac"
     - "https://github.com/KockaAdmiralac"
+    - "https://dev.fandom.com/wiki/User:KockaAdmiralac"
+    - "https://help.gamepedia.com/UserProfile:KockaAdmiralac"
+    - "https://twitch.tv/kockaadmiralac"
+    - "https://stackoverflow.com/users/4335370/kockaadmiralac"
 
 # Analytics
 analytics:
@@ -60,7 +64,7 @@ analytics:
 
 # Author
 author:
-  name: "Pera Pisar"
+  name: "Luka Simić"
   avatar:
   bio: "Јуче је данас било сутра."
   location: "Belgrade, Serbia"
@@ -70,13 +74,13 @@ author:
       url: "https://kocka.tech"
     - label: "KockaAdmiralac#9306"
       icon: "fab fa-fw fa-discord"
-      url: "#"
+      url: "https://discordapp.com/users/148231501413089280"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KockaAdmiralac"
     - label: "E-mail"
       icon: "fa fa-envelope"
-      url: "mailto:me@kocka.tech"
+      url: "mailto:luka@kocka.tech"
     - label: "Fandom"
       # https://github.com/FortAwesome/Font-Awesome/issues/12585
       icon: "fa fa-heart"
@@ -84,6 +88,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/KockaAdmiralac"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://twitch.tv/kockaadmiralac"
+    - label: "Gamepedia"
+      icon: "fas fa-gamepad"
+      url: "https://help.gamepedia.com/UserProfile:KockaAdmiralac"
     - label: "Stack Overflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/4335370/kockaadmiralac"
