@@ -70,9 +70,6 @@ author:
   bio: "Јуче је данас било сутра."
   location: "Zürich, Switzerland"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://kocka.tech"
     - label: "kockaadmiralac"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.com/users/148231501413089280"
