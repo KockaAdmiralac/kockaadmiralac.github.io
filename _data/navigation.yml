@@ -1,0 +1,6 @@
+# Navigation
+main:
+  - title: About Me
+    url: /about/
+  - title: Interests
+    url: /interests/

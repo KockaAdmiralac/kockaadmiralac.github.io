@@ -54,6 +54,7 @@ social:
     - "https://dev.fandom.com/wiki/User:KockaAdmiralac"
     - "https://twitch.tv/kockaadmiralac"
     - "https://stackoverflow.com/users/4335370/kockaadmiralac"
+    - "https://reddit.com/user/KockaAdmiralac"
 
 # Analytics
 analytics:
@@ -67,12 +68,12 @@ author:
   name: "Luka Simić"
   avatar:
   bio: "Јуче је данас било сутра."
-  location: "Belgrade, Serbia"
+  location: "Zürich, Switzerland"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kocka.tech"
-    - label: "KockaAdmiralac#9306"
+    - label: "kockaadmiralac"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.com/users/148231501413089280"
     - label: "GitHub"
@@ -86,17 +87,14 @@ author:
       url: "mailto:luka@kocka.tech"
     - label: "Fandom"
       # https://github.com/FortAwesome/Font-Awesome/issues/12585
-      icon: "fa fa-heart"
+      icon: "fa fa-fire"
       url: "https://dev.fandom.com/wiki/User:KockaAdmiralac"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/KockaAdmiralac"
-    - label: "Twitch"
-      icon: "fab fa-fw fa-twitch"
-      url: "https://twitch.tv/kockaadmiralac"
-    - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/4335370/kockaadmiralac"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://reddit.com/user/KockaAdmiralac"
 
 include:
   - _pages
