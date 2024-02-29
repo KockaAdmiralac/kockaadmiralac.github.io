@@ -6,7 +6,7 @@ title: Welcome!
 
 I'm Luka (also known as KockaAdmiralac), and this is my personal website. I am:
 
-- a master student of Computer Science at [ETH Zürich](https://ethz.ch/).
+- a master student of Computer Science at [ETH Zürich](https://ethz.ch/),
 - the maintainer of [SI Wiki](https://siwiki.rs/)'s infrastructure and its
   founder,
 - a wiki administrator on
