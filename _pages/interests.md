@@ -33,15 +33,17 @@ Status in parentheses indicates the comic's state, not my reading state.
 - [you're someone](https://mspfa.com/?s=20717&p=1) (abandoned)
 - [Ior](https://mspfa.com/?s=45430&p=1) (ongoing)
 - [xkcd](https://xkcd.com/) (ongoing)
-- [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) (ongoing)
+- [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) (ongoing;
+  sometimes mature themes)
 - [MonkeyUser](https://www.monkeyuser.com/) (ongoing)
 - [Bluechair](https://www.webtoons.com/en/slice-of-life/bluechair/list?title_no=199)
   (ongoing)
 - [Live with Yourself](https://www.webtoons.com/en/comedy/live-with-yourself/list?title_no=919)
-  (ongoing)
+  (finished)
 - [Safely Endangered](https://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)
   (ongoing)
 - [Soul Beacon of the Netherworld](https://tuyoki.itch.io/soulbeacon) (ongoing)
+- [Sleepless Domain](https://www.sleeplessdomain.com/) (ongoing)
 
 ## Music
 
