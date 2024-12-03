@@ -15,6 +15,7 @@ more entertaining for me to write than for you to read.
     - All of these are in Serbian, so the correct pronounciation of "c" is "ts",
       but people commonly mispronounce it. It should be KotskaAdmeeralats, not
       CockaAdmire-a-lack, but it's an honest mistake to make.
+    - People also often mistake me for a Hungarian person. Sorry! It's not my fault that we ~~stole~~ incorporated the word 'kocka' into the Serbian dictionary from Hungarian.
     - When I create bot users, I usually name them `KockaBot`.
 
 ## Education
