@@ -95,13 +95,14 @@ more entertaining for me to write than for you to read.
   and very simple package management in comparison to other distributions.
 - Software of choice:
     - Text editor and IDE: [Visual Studio Code](https://code.visualstudio.com/)
+        - ...but I've been picking up [Zed](https://zed.dev/) recently
     - Window manager: [i3](https://i3wm.org/)
     - Terminal emulator: [Alacritty](https://alacritty.org/)
     - Image editing: [GIMP](https://www.gimp.org/)
     - Video and audio editing: [FFmpeg](https://ffmpeg.org/)
     - Music player: [cmus](https://cmus.github.io/)
     - File manager: [ranger](https://ranger.fm/)
-    - Browser: [Chromium](https://www.chromium.org/Home/)
+    - Browser: [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
     - Email client: [Thunderbird](https://www.thunderbird.net/)
     - I realize this list is useful for targeting me with zero-day
       vulnerabilities and probably nothing else.
