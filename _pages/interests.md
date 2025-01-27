@@ -41,9 +41,10 @@ Status in parentheses indicates the comic's state, not my reading state.
 - [Live with Yourself](https://www.webtoons.com/en/comedy/live-with-yourself/list?title_no=919)
   (finished)
 - [Safely Endangered](https://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)
-  (ongoing)
+  (finished)
 - [Soul Beacon of the Netherworld](https://tuyoki.itch.io/soulbeacon) (ongoing)
 - [Sleepless Domain](https://www.sleeplessdomain.com/) (ongoing)
+- [Ava's Demon](https://avasdemon.com/) (ongoing)
 
 ## Music
 
