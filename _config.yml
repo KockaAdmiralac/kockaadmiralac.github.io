@@ -44,16 +44,13 @@ yandex_site_verification: be0d2ef7fca223a2
 naver_site_verification:
 
 # Social
-twitter:
-  username: KockaAdmiralac
 social:
   links:
-    - "https://twitter.com/KockaAdmiralac"
     - "https://github.com/KockaAdmiralac"
+    - "https://bsky.app/profile/kocka.tech"
     - "https://www.linkedin.com/in/simicluka/"
     - "https://dev.fandom.com/wiki/User:KockaAdmiralac"
     - "https://twitch.tv/kockaadmiralac"
-    - "https://stackoverflow.com/users/4335370/kockaadmiralac"
     - "https://reddit.com/user/KockaAdmiralac"
 
 # Analytics
@@ -89,9 +86,6 @@ author:
       # https://github.com/FortAwesome/Font-Awesome/issues/12585
       icon: "fa fa-fire"
       url: "https://dev.fandom.com/wiki/User:KockaAdmiralac"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/KockaAdmiralac"
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
       url: "https://reddit.com/user/KockaAdmiralac"
