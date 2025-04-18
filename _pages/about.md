@@ -44,17 +44,18 @@ more entertaining for me to write than for you to read.
 ## Wikis
 
 - I started contributing to MediaWiki-based wikis in December 2015.
-- My [first edit](https://undertale.fandom.com/?oldid=54368) was on December
+- My [first edit](https://undertale.wiki/?oldid=54368) was on December
   11, 2015 on the Undertale Wiki. I obtained my administrator rights on there
-  [exactly a month later](https://undertale.fandom.com/wiki/Special:Log/rights?page=User:KockaAdmiralac),
+  [exactly a month later](https://undertale.wiki/w/Special:Log/rights?page=User:KockaAdmiralac),
   and the rest is history.
 - I'm active and semi-active on the following wikis:
-    - [Undertale Wiki](https://undertale.fandom.com/) (administrator),
-    - [Deltarune Wiki](https://deltarune.fandom.com/) (bureaucrat),
+    - [Undertale Wiki](https://undertale.wiki/) (site administrator),
+    - [Deltarune Wiki](https://deltarune.wiki/) (site administrator),
     - [Fandom Developers Wiki (Dev Wiki)](https://dev.fandom.com/)
       (administrator),
     - [Undertale Yellow Wiki](https://undertaleyellow.wiki.gg/) (administrator),
     - [OneShot Wiki](https://oneshot.fandom.com/) (bureaucrat),
+    - [Margin of the Strange Wiki](https://marginofthestrange.wiki.gg/) (editor),
     - [Cave Story Wiki](https://cavestory.fandom.com/) (administrator),
     - [OFF Wiki](https://off.fandom.com/) (administrator),
     - [Dweller's Empty Path Wiki](https://dwellers-empty-path.fandom.com/)
