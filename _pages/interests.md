@@ -18,8 +18,6 @@ whatever.
 - [Final Fantasy](https://finalfantasy.com/)
 - [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)
 - [Hollow Knight](https://www.hollowknight.com/) (haven't finished yet)
-- [Heartbound](https://www.gopiratesoftware.com/games/Heartbound/) (haven't
-  finished the released parts yet)
 - [Escaped Chasm](https://tuyoki.itch.io/escaped-chasm) series, including
   [Dweller's Empty Path](https://tuyoki.itch.io/dwellers-empty-path)
 
