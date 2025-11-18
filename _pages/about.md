@@ -49,21 +49,15 @@ more entertaining for me to write than for you to read.
   [exactly a month later](https://undertale.wiki/w/Special:Log/rights?page=User:KockaAdmiralac),
   and the rest is history.
 - I'm active and semi-active on the following wikis:
-    - [Undertale Wiki](https://undertale.wiki/) (site administrator),
-    - [Deltarune Wiki](https://deltarune.wiki/) (site administrator),
+    - [Undertale Wiki](https://undertale.wiki/) (system administrator),
+    - [Deltarune Wiki](https://deltarune.wiki/) (system administrator),
     - [Fandom Developers Wiki (Dev Wiki)](https://dev.fandom.com/)
       (administrator),
     - [Undertale Yellow Wiki](https://undertaleyellow.wiki.gg/) (administrator),
-    - [OneShot Wiki](https://oneshot.fandom.com/) (bureaucrat),
+    - [OneShot Wiki](https://oneshot.wiki.gg/) (administrator),
     - [Margin of the Strange Wiki](https://marginofthestrange.wiki.gg/) (editor),
     - [Cave Story Wiki](https://cavestory.fandom.com/) (administrator),
     - [OFF Wiki](https://off.fandom.com/) (administrator),
-    - [Dweller's Empty Path Wiki](https://dwellers-empty-path.fandom.com/)
-      (bureaucrat),
-    - [Escaped Chasm](https://escaped-chasm.fandom.com/) (just watching for
-      vandalism),
-    - [The Property of Hate Wiki](https://the-property-of-hate.fandom.com/)
-      (just watching for vandalism),
     - and, of course, the aforementioned [SI Wiki](https://siwiki.rs/) which I
       founded and still help around.
 - I used to be more involved with the global community at
@@ -96,7 +90,6 @@ more entertaining for me to write than for you to read.
   and very simple package management in comparison to other distributions.
 - Software of choice:
     - Text editor and IDE: [Visual Studio Code](https://code.visualstudio.com/)
-        - ...but I've been picking up [Zed](https://zed.dev/) recently
     - Window manager: [i3](https://i3wm.org/)
     - Terminal emulator: [Alacritty](https://alacritty.org/)
     - Image editing: [GIMP](https://www.gimp.org/)

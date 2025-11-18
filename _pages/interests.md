@@ -25,9 +25,7 @@ whatever.
 
 Status in parentheses indicates the comic's state, not my reading state.
 
-- [Homestuck](https://homestuck.com/) (finished)
 - [The Property of Hate](https://jolleycomics.com/TPoH/The_Hook/1) (ongoing)
-- [Homestuck^2: Beyond Canon](https://homestuck2.com/) (ongoing)
 - [you're someone](https://mspfa.com/?s=20717&p=1) (abandoned)
 - [Ior](https://mspfa.com/?s=45430&p=1) (ongoing)
 - [xkcd](https://xkcd.com/) (ongoing)
@@ -43,6 +41,7 @@ Status in parentheses indicates the comic's state, not my reading state.
 - [Soul Beacon of the Netherworld](https://tuyoki.itch.io/soulbeacon) (ongoing)
 - [Sleepless Domain](https://www.sleeplessdomain.com/) (ongoing)
 - [Ava's Demon](https://avasdemon.com/) (ongoing)
+- [Holly & Macy and Everyone Else](https://hollymacycomic.com/) (ongoing)
 
 ## Music
 
