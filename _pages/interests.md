@@ -25,7 +25,7 @@ whatever.
 
 Status in parentheses indicates the comic's state, not my reading state.
 
-- [The Property of Hate](https://jolleycomics.com/TPoH/The_Hook/1) (ongoing)
+- [The Property of Hate](https://jolleycomics.com/TPoH/The_Hook/1) (hiatus)
 - [you're someone](https://mspfa.com/?s=20717&p=1) (abandoned)
 - [Ior](https://mspfa.com/?s=45430&p=1) (ongoing)
 - [xkcd](https://xkcd.com/) (ongoing)
@@ -33,15 +33,15 @@ Status in parentheses indicates the comic's state, not my reading state.
   sometimes mature themes)
 - [MonkeyUser](https://www.monkeyuser.com/) (ongoing)
 - [Bluechair](https://www.webtoons.com/en/slice-of-life/bluechair/list?title_no=199)
-  (ongoing)
+  (finished)
 - [Live with Yourself](https://www.webtoons.com/en/comedy/live-with-yourself/list?title_no=919)
   (finished)
 - [Safely Endangered](https://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)
   (finished)
-- [Soul Beacon of the Netherworld](https://tuyoki.itch.io/soulbeacon) (ongoing)
-- [Sleepless Domain](https://www.sleeplessdomain.com/) (ongoing)
+- [Soul Beacon of the Netherworld](https://tuyoki.itch.io/soulbeacon) (hiatus)
+- [Sleepless Domain](https://www.sleeplessdomain.com/) (hiatus)
 - [Ava's Demon](https://avasdemon.com/) (ongoing)
-- [Holly & Macy and Everyone Else](https://hollymacycomic.com/) (ongoing)
+- [Holly & Macy and Everyone Else](https://hollymacycomic.com/) (hiatus)
 
 ## Music
 
